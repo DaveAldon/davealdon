@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm a software developer from Michigan, and I work for Bravo LT, a software consultancy. I like making Discord bots, AI stuff, and apps!
+I'm a software developer from Michigan, and I work for Michigan Labs, a software consultancy. I like making apps, machine learning projects, and other open-source tools.
 
 ## Some more background
 
