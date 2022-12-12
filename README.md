@@ -4,7 +4,7 @@ I'm a software developer from Michigan, and I work for Michigan Labs, a software
 
 ## Some more background
 
-- 🔭 I’m currently working with React Native on a mobile project for Gordon Foods
+- 🔭 I’m currently working with Kotlin for Native Android development on a project for Auto-Wares
 - 💋 I really enjoy unit testing
 - 💬 I love talking about writing, art, 3d printing, and programming
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidcrawfordprofile/)
