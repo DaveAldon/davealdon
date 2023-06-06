@@ -2,6 +2,13 @@
 
 I'm a software developer from Michigan, and I work for Michigan Labs, a software consultancy. I like making apps, machine learning projects, and other open-source tools.
 
+I've also created the following websites:
+
+- [crawfordlineage.com](https://www.crawfordlineage.com/) - A Genealogy website that graphs my family tree
+- [grandrapidsdeveloper.com](https://www.grandrapidsdeveloper.com/) - My personal tech blog
+- [bibletranslations.org](https://www.bibletranslations.org/) - A website that visually teaches you the origins of Bible translations
+- [davealdon.com](https://www.davealdon.com/) - My theology blog
+
 ## Some more background
 
 - 🔭 I’m currently working with Kotlin for Native Android development on a project for Auto-Wares
