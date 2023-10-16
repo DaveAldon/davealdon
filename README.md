@@ -11,7 +11,7 @@ I've also created the following websites:
 
 ## Some more background
 
-- 🔭 I’m currently working with Kotlin for Native Android development on a project for Auto-Wares
+- 🔭 I’m currently working with Python on a project for Orb Aerospace
 - 💋 I really enjoy unit testing
 - 💬 I love talking about writing, art, 3d printing, and programming
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidcrawfordprofile/)
