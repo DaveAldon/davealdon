@@ -1,7 +1,11 @@
 ## Hey! 👋
 
-I'm a software developer from Michigan, and I work for Michigan Labs, a software consultancy. I like making apps, machine learning projects, and other open-source tools.
+I'm a _Purpose-Driven_ software developer from Michigan, and I work for Michigan Labs, a software consultancy. I like making a variety of open-source software, speaking at events to help educate developers, and writing.
 
+<a>
+<img align="center" src="https://media.licdn.com/dms/image/D4E16AQENWjQt1i-WlQ/profile-displaybackgroundimage-shrink_350_1400/0/1708562995822?e=1715817600&v=beta&t=8dGq3n3_A1to5_Iw3iRjMVPzmXml1EZAGaJjZfatnkk" />
+</a>
+  
 I've also created the following websites:
 
 - [crawfordlineage.com](https://www.crawfordlineage.com/) - A Genealogy website that graphs my family tree
