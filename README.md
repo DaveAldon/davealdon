@@ -3,15 +3,16 @@
 I'm a _Purpose-Driven_ software developer from Michigan, and I work for Michigan Labs, a software consultancy. I like making a variety of open-source software, speaking at events to help educate developers, and writing.
 
 <a>
-<img align="center" src="https://media.licdn.com/dms/image/D4E16AQENWjQt1i-WlQ/profile-displaybackgroundimage-shrink_350_1400/0/1708562995822?e=1721865600&v=beta&t=DLVH3o5avGGYemMTBHo-I6MQnMGsTyRX2jZrNEJTuSo" />
+<img align="center" src="https://github.com/user-attachments/assets/414c8e1c-3781-45ca-80cb-718c27b32660" />
 </a>
-  
+<p></p>  
 I've also created the following websites:
 
-- [crawfordlineage.com](https://www.crawfordlineage.com/) - A Genealogy website that graphs my family tree
-- [grandrapidsdeveloper.com](https://www.grandrapidsdeveloper.com/) - My personal tech blog
-- [bibletranslations.org](https://www.bibletranslations.org/) - A website that visually teaches you the origins of Bible translations
 - [davealdon.com](https://www.davealdon.com/) - My theology blog
+- [grandrapidsdeveloper.com](https://www.grandrapidsdeveloper.com/) - My personal tech blog
+- [crawfordlineage.com](https://www.crawfordlineage.com/) - A Genealogy website that graphs my family tree
+- [bibletranslations.org](https://www.bibletranslations.org/) - A website that visually teaches you the origins of Bible translations
+
 
 ## Some more background
 
