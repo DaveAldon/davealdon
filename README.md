@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm a _Purpose-Driven_ software developer from Michigan, and I work for Michigan Labs, a software consultancy. I like making a variety of open-source software, speaking at events to help educate developers, and writing.
+I'm a Partner @ Michigan Software Labs, a software consultancy. I like making a variety of open-source software, speaking at events to help educate developers, and writing.
 
 <a>
 <img align="center" src="https://github.com/user-attachments/assets/414c8e1c-3781-45ca-80cb-718c27b32660" />
